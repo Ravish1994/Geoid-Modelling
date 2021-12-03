@@ -2,7 +2,7 @@ clc
 close all
 clear all
 disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%')
-disp('                 Geoid Modelling Project by Ravi Prakash Kumar and Abhishekk Anand')
+disp('                 Geoid Modelling Project by Ravi Prakash Kumar')
 disp('            Under the Supervision Of  Dr. Balaji Devaraju , Digvijay Singh and Arnab Laha')
 disp('---------------------------------(Computation In Progress)-------------------------------')
 disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%')
